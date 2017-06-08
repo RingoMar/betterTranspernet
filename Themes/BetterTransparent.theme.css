@@ -14,7 +14,7 @@
 	/*** !! THIS IMAGE URL NEEDS TO BE HTTPS:// !! ***/
 	/* https://imgur.com/lcmv4j2.jpg (1920x1080) */
 	/*https://imgur.com/CfMdEZL.jpg*/
-	background: url(https://imgur.com/lcmv4j2.jpg) !important;
+	background: url() !important;
 	background-size: cover !important;
 }
 
@@ -1167,13 +1167,7 @@ textarea {
 }
 
 .ui-switch-checkbox {
-    position: absolute;
-    opacity: 0;
-    cursor: pointer;
 	background: rgba(37,172,232,0.2);
-    width: 100%;
-    height: 100%;
-    z-index: 1;
 }
 
 .ui-switch-checkbox:checked+.ui-switch {
@@ -1201,6 +1195,20 @@ textarea {
 
 .theme-dark .themed-popout .header {
     background-color: rgba(0,0,0,0.95);
+}
+
+.container-RYiLuQ {
+	background-color: rgba(0,0,0,0.7);
+}
+
+contentSelectedText-3j5CXt {
+	background-color: rgba(32,34,37,.3);
+}
+.container-3lnMWU {
+	background: rgba(0,0,0,0.85);
+}
+.theme-dark .search .search-bar {
+	background-color: rgba(32,34,37,.3);
 }
 
 .theme-dark .messages-popout-wrap .messages-popout .message-group {
@@ -1462,10 +1470,6 @@ ui-card ui-card-primary flex-horizontal margin-bottom-8 checked editable{
 .btn-help {
 	font-size: 11px;
 	background: rgba(255,255,255,0.3);
-}
-
-.messages h2 span {
-	color: #fff
 }
 
 .user-settings-modal-keybinds .user-settings-modal-keybinds-header {
@@ -1771,10 +1775,6 @@ ui-card ui-card-primary flex-horizontal margin-bottom-8 checked editable{
     font-size:12px;
 	background:rgba(0,0,0,0.8) !important;
 	border-radius:0 0 5px 5px;
-}
-
-.messages h2 span {
-    color: #fff !important;
 }
 
 .server-icon {
