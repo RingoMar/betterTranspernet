@@ -24,4 +24,8 @@ Or get the plugins you want manually from https://github.com/Bluscream/BetterDis
 `6.` Go to the **BetterDiscord** `settings` -> `plugins` tab and check all plugins you want.
 
 
-![Screenshots](http://imgur.com/xzc5mhK.jpg) 
+![Screenshots](http://imgur.com/1F0Sfk6.png) 
+
+![Screenshots](http://imgur.com/EFQJi6o.png)
+
+![Screenshots](http://imgur.com/Kc3DhS8.png)
