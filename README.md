@@ -1,10 +1,27 @@
-**Hey!**
-This is a remake of the [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) transparent theme made for the new look of [Discord](https://discordapp.com/)
+# BetterDiscord-Plugins-and-Themes
+Unofficial Plugins and Themes for [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp)
 
-**Plus!** some plugins that just makes discord look **SO** much better.
+This is a collection of plugins 'n themes. I'll try to keep them as up-to-date as possible.
 
-**How to add a theme**
+Please note that not every single plugin/theme is by me. If i took your plugin/theme and you want to be credited somewhere here as author just tell me.
 
-To add a theme/style you can either, edit the CSS for a few lines of CSS code or for much bigger themes you can add the THEME.css to C:\Users\NAME\AppData\Roaming\BetterDiscord\themes in Windows, ~/Library/Preferences/BetterDiscord/themes in OSX, or where ever the BetterDiscord folder is located, fully close down discord, reopen and click the theme you want in the settings.
+Everything goes to ``` %appdata%\BetterDiscord\ ```
 
-[Screenshots](http://imgur.com/xzc5mhK.jpg) 
+##__How to get a better Discord experience__:
+
+`1.` If you don't have it, get **Discord** from https://discordapp.com/apps
+
+`2.` Download **BetterDiscord** for your platform on https://betterdiscord.net/home
+
+`3.` Get **BetterDiscord+** from https://github.com/Bluscream/BetterDiscord/releases/download/3/BetterDiscord.Setup.exe
+
+Or get the plugins you want manually from https://github.com/Bluscream/BetterDiscord-Plugins-and-Themes/tree/master/plugins or https://github.com/Bluscream/BetterDiscord-Plugins-and-Themes/archive/master.zip
+
+`4.` If you used the installer continue with step `5.` Otherwise place the plugins you want in `%appdata%\BetterDiscord\plugins\`.
+
+`5.` Refresh Discord with `[CTRL]` + `[SHIFT]` + `[R]` or just restart Discord completely.
+
+`6.` Go to the **BetterDiscord** `settings` -> `plugins` tab and check all plugins you want.
+
+
+![Screenshots](http://imgur.com/xzc5mhK.jpg) 
