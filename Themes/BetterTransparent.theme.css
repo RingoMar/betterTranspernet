@@ -1,4 +1,4 @@
-//META{"name":"BetterTransparent","description":"A base transparent theme","author":"Justin_H10","version":"0.20"}*//{}
+//META{"name":"BetterTransparent","description":"A base transparent theme","author":"Justin_H10","version":"0.23"}*//{}
 
 /*
                      _                _                                   _ 
@@ -477,6 +477,16 @@ textarea {
 .channel-pins .message-group .action-buttons {
 	box-shadow: none !important;
     background: none !important;
+}
+
+.theme-dark .modal-3HOjGZ {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.theme-dark .message-25xg43 {
+    background-color: rgba(0, 0, 0, 0.9);
+}
+.theme-dark .footer-1PYmcw {
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 .channel-pins .message-group .action-buttons .jump-button {
