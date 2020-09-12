@@ -1,3 +1,5 @@
+# 🚫❗DEPRECATED ❗🚫
+
 # BetterDiscord-Plugins-and-Themes
 Unofficial Plugins and Themes for [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp)
 
